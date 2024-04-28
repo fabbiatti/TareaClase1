@@ -27,6 +27,15 @@ nav{
     border-color: lightgray;
     border-style: dashed;
 }
+.dias{
+    color: gray;
+    font-size: 20px;
+    font-weight: bold;
+}
+.horarios{
+    color: blue;
+    font-style: italic;
+}
 .titulo{
     color: red;
 }
