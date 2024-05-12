@@ -3,6 +3,12 @@
     padding: 0;
 }
 
+.boxes{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 100px;
+}
+
 .footer{
     background-color: gray;
     color: white;
