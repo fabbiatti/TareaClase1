@@ -36,9 +36,13 @@ ul{
     flex-direction: row;
 }
 .contacto{
+    padding: 20px;
+    width: 769px;
     border-color: lightgray;
     border-style: dashed;
 }
+
+
 .dias{
     color: gray;
     font-size: 20px;
